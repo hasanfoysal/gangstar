@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 720" fill="none">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1600" y2="720" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#064e3b"/>
+      <stop offset="55%" stop-color="#065f46"/>
+      <stop offset="100%" stop-color="#0f766e"/>
+    </linearGradient>
+    <radialGradient id="glow2" cx="80%" cy="35%" r="45%">
+      <stop offset="0%" stop-color="#34d399" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#34d399" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="720" fill="url(#bg2)"/>
+  <rect width="1600" height="720" fill="url(#glow2)"/>
+  <g opacity="0.12" stroke="#ffffff" stroke-width="1.5">
+    <circle cx="1260" cy="300" r="240"/>
+    <circle cx="1260" cy="300" r="170"/>
+    <circle cx="1260" cy="300" r="100"/>
+  </g>
+  <text x="1260" y="325" text-anchor="middle" fill="#a7f3d0" font-family="system-ui, sans-serif" font-size="88" font-weight="800">12th</text>
+  <text x="1260" y="370" text-anchor="middle" fill="#ffffff" fill-opacity="0.85" font-family="system-ui, sans-serif" font-size="20" font-weight="600" letter-spacing="4">BATCH</text>
+</svg>

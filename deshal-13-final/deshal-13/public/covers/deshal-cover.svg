@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 720" fill="none">
+  <defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1600" y2="720" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0b192c"/>
+      <stop offset="55%" stop-color="#1a365d"/>
+      <stop offset="100%" stop-color="#1e4e8c"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="78%" cy="30%" r="45%">
+      <stop offset="0%" stop-color="#f59e0b" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#f59e0b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="720" fill="url(#bg1)"/>
+  <rect width="1600" height="720" fill="url(#glow1)"/>
+  <g opacity="0.12" stroke="#ffffff" stroke-width="1.5">
+    <path d="M0 140 H1600 M0 280 H1600 M0 420 H1600 M0 560 H1600"/>
+    <path d="M240 0 V720 M560 0 V720 M880 0 V720 M1200 0 V720"/>
+  </g>
+  <circle cx="1280" cy="240" r="170" stroke="#f59e0b" stroke-opacity="0.35" stroke-width="2" stroke-dasharray="10 10"/>
+  <circle cx="1280" cy="240" r="115" fill="#f59e0b" fill-opacity="0.12" stroke="#fbbf24" stroke-opacity="0.5" stroke-width="2"/>
+  <text x="1280" y="258" text-anchor="middle" fill="#fde68a" font-family="system-ui, sans-serif" font-size="84" font-weight="800">১৩</text>
+  <text x="1280" y="302" text-anchor="middle" fill="#ffffff" fill-opacity="0.85" font-family="system-ui, sans-serif" font-size="18" font-weight="600" letter-spacing="4">ROOM 13</text>
+</svg>

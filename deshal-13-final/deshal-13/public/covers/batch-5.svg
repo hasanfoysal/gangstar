@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 720" fill="none">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1600" y2="720" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#31102f"/>
+      <stop offset="50%" stop-color="#4c1d95"/>
+      <stop offset="100%" stop-color="#1e3a8a"/>
+    </linearGradient>
+    <radialGradient id="glow3" cx="76%" cy="35%" r="45%">
+      <stop offset="0%" stop-color="#f472b6" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#f472b6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="720" fill="url(#bg3)"/>
+  <rect width="1600" height="720" fill="url(#glow3)"/>
+  <rect x="1110" y="130" width="320" height="320" rx="48" transform="rotate(12 1270 290)" stroke="#e9d5ff" stroke-opacity="0.25" stroke-width="2" fill="#ffffff" fill-opacity="0.05"/>
+  <text x="1270" y="310" text-anchor="middle" fill="#fde68a" font-family="system-ui, sans-serif" font-size="88" font-weight="800">5th</text>
+  <text x="1270" y="355" text-anchor="middle" fill="#ffffff" fill-opacity="0.85" font-family="system-ui, sans-serif" font-size="20" font-weight="600" letter-spacing="4">ALUMNI</text>
+</svg>
